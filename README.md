@@ -1,2 +1,2 @@
-# HASIL_SKRIPSI_SIDANG_AKHIR_YUSRIL_ALFAFA_FUZZY_FMEA_AHP_TOPSIS
-SKRIPSI YUSRIL FMEA AHP TOPSIS SIDANG AKHIR
+# Conveyor Risk Analysis Dashboard - Final Presentation Edition
+Updated with extremely deep analytical narratives, integrated MATLAB outputs (`image_5e4ef8.png` and `image_5e4ebb.png`), highly interactive clickable menu tabs, and a refined thesis conclusion.
